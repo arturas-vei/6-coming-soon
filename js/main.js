@@ -17,4 +17,4 @@ clock.init();
 
 renderProgressBar('.left', progressBarData);
 
-renderSocials('footer > .row-long', socialsData)
+renderSocials('footer > .row-long', socialsData);

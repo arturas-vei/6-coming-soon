@@ -59,7 +59,7 @@ class Clock {
 
     findClockValueElements() {
         const values = this.DOM.querySelectorAll('.value');
-        this.DOMdays = values[0];
+        this.DOMdays = values[0];  
         this.DOMhour = values[1];
         this.DOMminutes = values[2];
         this.DOMseconds = values[3];
